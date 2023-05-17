@@ -36,12 +36,13 @@
     transform: rotate(360deg);
   }
 }
-ul{
+.menu{
   display: flex;
   background-color: #282c34;
   list-style: none;
   padding-bottom: 5px;
   padding-top: 2px;
+  margin-top: 0;
 }
 li{
   padding-top: 3px;
