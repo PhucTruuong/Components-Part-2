@@ -64,10 +64,10 @@ a{
   width: 280px;
   margin-bottom: 0px;
 }
-.grid{
+.container{
   display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
-	grid-template-rows: 100px 200px;
+	grid-template-rows: 300px 280px;
   margin: 20px 10% 20px 10%;
 }
 
@@ -102,4 +102,10 @@ button{
 .copyright{
   color: white;
   font-size: 10px;
+}
+.footer{
+  color: white;
+  padding: 6px 0px;
+  margin-bottom: 0px;
+  font-size: 13px;
 }
